@@ -8,3 +8,5 @@ print (a, "hola", b, '=', c)
 #print (a + "hola" + b + '=' + str(c)) error
 
 print (str(a) + "hola" + str(b) + '=' + str(c))
+
+print (b.count("2"))
